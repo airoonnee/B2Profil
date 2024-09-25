@@ -6,7 +6,6 @@
 3/ Remplis tes 4 points forts en y rajoutant une description (hard et soft skills)  
 4/ Remplis tes 4 axes d'amélioration en y rajoutant une description (hard et soft skills)  
 5/ Crée un dossier files à la racine du projet  
-
 6/ Crée les liens vers ton CV, ta lettre de motivation, ton message de motivation et ton mail de relance (ces documents doivent être sous format PDF et être déposé dans le dossier files)  
 7/ Change l'image de la partie LinkedIn par ta propre bannière LinkedIn  
 8/ Rajoute un lien sur l'image qui pointe sur ton profil LinkedIn  
